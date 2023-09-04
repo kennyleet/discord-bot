@@ -1,5 +1,4 @@
-# discord-bot
-Бот для Discord
+# Бот для Discord
 
 Префикс бота = !
 
