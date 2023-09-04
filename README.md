@@ -1,5 +1,7 @@
 # discord-bot
-Музыкальный бот для Discord, умный, способный!!!
+Бот для Discord
 Будьте с ним вежливы.
 Работает с ютубом, спотифаем хехе
-pip install ffmpeg discord youtube_dl
+Перед запуском программы нужно установить библиотеки:
+
+    pip install ffmpeg discord youtube_dl
